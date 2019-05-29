@@ -248,7 +248,7 @@ class Logica {
       this.tiempoL -= 78;
     }
 
-    if (this.minutos == 3 && this.segundos == 1) {
+    if (this.minutos == 1 && this.segundos == 1) {
       this.generadorDeEnemigos.generarJefe();
     }
 
